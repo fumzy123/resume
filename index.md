@@ -1,6 +1,4 @@
-<!-- # **Omafume Uvwie** -->
-
-**<h1 style="color: rgb(149, 103, 70);">Omafume Uvwie</h1>**
+<h1 style="font-weight: bold; color: rgb(149, 103, 70);">Omafume Uvwie</h1>
 
 - Phone: (709) 746-4080
 - Email: [omafumeu@gmail.com](mailto:omafumeu@gmail.com)
