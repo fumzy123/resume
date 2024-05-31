@@ -8,7 +8,7 @@
 <h2 style="font-weight: bold; color: rgb(149, 103, 70);">📚 SKILLS</h2>
 
 - **Languages**: HTML/CSS, JavaScript, TypeScript, Python, C++
-- **Frontend Web Technologies**: React, Astro, WebGL, ThreeJS, React-Three-Fiber
+- **Frontend Web Technologies**: React, NextJS, Astro, WebGL, ThreeJS, React-Three-Fiber
 - **Backend Web Technologies**: NodeJS, Express, Django, SQLite
 - **Design Tools**: Figma, Affinity Designer
 
@@ -66,6 +66,16 @@
 
 - A re-creation of the iconic wordle game using a modern web frame-work.
 
+### **[Portfolio website](https://personal-astro-blog-seven.vercel.app/)**
+
+#### Astro, CSS, React
+
+- I needed a little corner of the internet that I could call my own.
+- So I opened up Figma, and designed myself a personal website.
+- The design took a couple of iterations and inspirations
+- But once it was ready, I brought it to life with Astro, CSS, and React.
+- Feel free to check it out.
+
 <h2 style="font-weight: bold; color: rgb(149, 103, 70);">📚 EDUCATION</h2>
 
 ### **Bachelor of Science in Computer Science**
@@ -74,3 +84,6 @@
 
 - 81.1 average and 3.69 GPA
 - Key courses: Web Programming, 3D Computer Graphics, Algorithmic Techniques for AI, Intro to Scientific Computing
+
+<br/>
+<br/>
