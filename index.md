@@ -5,14 +5,14 @@
 - Github: [fumzy123](https://github.com/fumzy123)
 - LinkedIn: [Omafume Uvwie](https://www.linkedin.com/in/fumeuvwie/)
 
-**<h2 style="color: rgb(149, 103, 70);">📚 SKILLS</h2>**
+<h2 style="font-weight: bold; color: rgb(149, 103, 70);">📚 SKILLS</h2>
 
 - **Languages**: HTML/CSS, JavaScript, TypeScript, Python, C++
 - **Frontend Web Technologies**: React, Astro, WebGL, ThreeJS, React-Three-Fiber
 - **Backend Web Technologies**: NodeJS, Express, Django, SQLite
 - **Design Tools**: Figma, Affinity Designer
 
-**<h2 style="color: rgb(149, 103, 70);">💻 EXPERIENCE</h2>**
+<h2 style="font-weight: bold; color: rgb(149, 103, 70);">💻 EXPERIENCE</h2>
 
 ### **Junior Programmer Analyst**
 
@@ -24,7 +24,7 @@
 - Progress of the project was shared with team memebers during regular SCRUM meetings.
 - Performed QA for 3D Shipbuilding Web Application.
 
-**<h2 style="color: rgb(149, 103, 70);">🏆 ACCOMPLISHMENTS</h2>**
+<h2 style="font-weight: bold; color: rgb(149, 103, 70);">🏆 ACCOMPLISHMENTS</h2>
 
 ### **Hackathon Winner (Best Design)**
 
@@ -36,7 +36,7 @@
 - I Worked on the Front-end to implement the UI/UX Figma design provided by our Lead Designer.
 - Implemented with React and CSS.
 
-**<h2 style="color: rgb(149, 103, 70);">📦 PROJECTS</h2>**
+<h2 style="font-weight: bold; color: rgb(149, 103, 70);">📦 PROJECTS</h2>
 
 ### **[Accounting Software Landing page](https://fumzy123.github.io/Dragons-website/)**
 
@@ -66,7 +66,7 @@
 
 - A re-creation of the iconic wordle game using a modern web frame-work.
 
-**<h2 style="color: rgb(149, 103, 70);">📚 EDUCATION</h2>**
+<h2 style="font-weight: bold; color: rgb(149, 103, 70);">📚 EDUCATION</h2>
 
 ### **Bachelor of Science in Computer Science**
 
