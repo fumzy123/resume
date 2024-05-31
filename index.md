@@ -55,7 +55,7 @@
 
 ### **[Connect2](https://www.figma.com/design/AxsW1mI5g6h5pjUzO7qS47/Figma-basics?node-id=1669-162202&t=VXW2q5FBL9f894ho-0)**
 
-#### React, Vite, CSS
+#### React, TypeScript, Vite, CSS
 
 - A Social Media app that changes the way people engage online.
 - Responsible for implementing the React Components that allow users to Post
