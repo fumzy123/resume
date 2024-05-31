@@ -10,6 +10,7 @@
 - **Languages**: HTML/CSS, JavaScript, TypeScript, Python, C++
 - **Frontend Web Technologies**: React, NextJS, Astro, WebGL, ThreeJS, React-Three-Fiber
 - **Backend Web Technologies**: NodeJS, Express, Django, SQLite
+- **Dev Tools**: Git, GitHub, GitHub Actions (CI/CD workflows), Vite, WebPack, Vercel, VS Code, npm/yarn
 - **Design Tools**: Figma, Affinity Designer
 
 <h2 style="font-weight: bold; color: rgb(149, 103, 70);">💻 EXPERIENCE</h2>
