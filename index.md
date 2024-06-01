@@ -8,7 +8,7 @@
 <h2 style="font-weight: bold; color: rgb(149, 103, 70);">📚 SKILLS</h2>
 
 - **Languages**: HTML/CSS, JavaScript, TypeScript, Python, C++
-- **Frontend Web Technologies**: React, NextJS, Astro, WebGL, ThreeJS, React-Three-Fiber
+- **Frontend Web Technologies**: React, NextJS, Astro, WebGL, ThreeJS, React-Three-Fiber, StoryBlok
 - **Backend Web Technologies**: NodeJS, Express, Django, SQLite
 - **Dev Tools**: Git, GitHub, GitHub Actions (CI/CD workflows), Vite, WebPack, Vercel, VS Code, npm/yarn
 - **Design Tools**: Figma, Affinity Designer
@@ -69,7 +69,7 @@
 
 ### **[Portfolio website](https://personal-astro-blog-seven.vercel.app/)**
 
-#### Astro, CSS, React
+#### Astro, CSS, React, StoryBlok
 
 - I needed a little corner of the internet that I could call my own.
 - So I opened up Figma, and designed myself a personal website.
