@@ -8,7 +8,7 @@
 <h2 style="font-weight: bold; color: rgb(149, 103, 70);">📚 SKILLS</h2>
 
 - **Languages**: HTML/CSS, JavaScript, TypeScript, Python, C++
-- **Frontend Web Technologies**: React, NextJS, Astro, WebGL, ThreeJS, React-Three-Fiber, StoryBlok
+- **Frontend Web Technologies**: React, NextJS, Astro, WebGL, ThreeJS, React-Three-Fiber, StoryBlok, RESTFUL APIs
 - **Backend Web Technologies**: NodeJS, Express, Django, SQLite
 - **Dev Tools**: Git, GitHub, GitHub Actions (CI/CD workflows), Vite, WebPack, Vercel, VS Code, npm/yarn
 - **Design Tools**: Figma, Affinity Designer
@@ -58,7 +58,8 @@
 #### React, TypeScript, Vite, CSS
 
 - A Social Media app that changes the way people engage online.
-- Responsible for implementing the React Components that allow users to Post
+- We discussed the core idea of the UI/UX design, and discussed the technical implementations of the front-end code.
+- Responsible for implementing the React Components that allow users to make different kinds of post.
 - Responsible for implementing the UI/UX Design for the app using CSS.
 
 ### **[Wordle Game](https://project-wordle-pkgi9lvat-fumezs-projects.vercel.app/)**
