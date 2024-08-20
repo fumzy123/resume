@@ -1,17 +1,17 @@
 <h1 style="font-weight: bold; color: rgb(149, 103, 70);">Omafume Uvwie</h1>
 
-- Phone: (709) 746-4080
 - Email: [omafumeu@gmail.com](mailto:omafumeu@gmail.com)
 - Github: [fumzy123](https://github.com/fumzy123)
 - LinkedIn: [Omafume Uvwie](https://www.linkedin.com/in/fumeuvwie/)
 
 <h2 style="font-weight: bold; color: rgb(149, 103, 70);">📚 SKILLS</h2>
 
-- **Languages**: HTML/CSS, JavaScript, TypeScript, Python, C++
-- **Frontend Web Technologies**: React, NextJS, Astro, WebGL, ThreeJS, React-Three-Fiber, StoryBlok, RESTFUL APIs
-- **Backend Web Technologies**: NodeJS, Express, Django, SQLite
+- **Languages**: HTML/CSS, JavaScript, TypeScript, Python, C++, C#
+- **Frontend Web Technologies**: React, NextJS, Astro, WebGL, ThreeJS, React-Three-Fiber, RESTFUL APIs
+- **Content Management System**: StoryBlok
+- **Backend Web Technologies**: NodeJS, Django, SQLite, Supabase, Postgres
 - **Dev Tools**: Git, GitHub, GitHub Actions (CI/CD workflows), Vite, WebPack, Vercel, VS Code, npm/yarn
-- **Design Tools**: Figma, Affinity Designer
+- **Digital Media**: Figma, Affinity Designer, Davinci Resolve
 
 <h2 style="font-weight: bold; color: rgb(149, 103, 70);">💻 EXPERIENCE</h2>
 
@@ -25,16 +25,14 @@
 - Progress of the project was shared with team memebers during regular SCRUM meetings.
 - Performed QA for 3D Shipbuilding Web Application.
 
-<h2 style="font-weight: bold; color: rgb(149, 103, 70);">🏆 ACCOMPLISHMENTS</h2>
-
-### **Hackathon Winner (Best Design)**
+### **Front-End / React Developer**
 
 #### Don't Overthink It Hackathon, May 2024
 
 - The theme of the Hackathon was to create a solution to an everyday problem.
 - There is nothing more everyday than Social Media, and one of its major problem is the rabbit hole of unrelated content that people run into.
 - We designed and Implemented a Social media app called Connect2 that changes the way people interact on social platforms.
-- I Worked on the Front-end to implement the UI/UX Figma design provided by our Lead Designer.
+- I worked on the Front-end to implement the UI/UX Figma design provided by our Lead Designer.
 - Implemented with React and CSS.
 
 <h2 style="font-weight: bold; color: rgb(149, 103, 70);">📦 PROJECTS</h2>
@@ -68,7 +66,7 @@
 
 - A re-creation of the iconic wordle game using a modern web frame-work.
 
-### **[Portfolio website](https://personal-astro-blog-seven.vercel.app/)**
+### **[Portfolio website](https://fume-uvwie-portfolio-website.vercel.app/)**
 
 #### Astro, CSS, React, StoryBlok
 
