@@ -1,4 +1,4 @@
-<h1 style="font-weight: bold; color: rgb(149, 103, 70);">Omafume Uvwie</h1>
+<h1 style="font-weight: bold; color: rgb(149, 103, 70);">Fume Uvwie</h1>
 
 - Email: [omafumeu@gmail.com](mailto:omafumeu@gmail.com)
 - Github: [fumzy123](https://github.com/fumzy123)
